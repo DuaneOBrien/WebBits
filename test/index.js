@@ -5,7 +5,8 @@
  *  `$ find . -name "*json" | xargs node test/index.js`
  *
  */
-
+/*eslint no-process-exit:0, no-console:0*/
+'use strict';
 var failures = 0,
     fs = require('fs'),
     jsonFiles = process.argv.slice(2);
@@ -20,12 +21,12 @@ jsonFiles
         catch (err) {
             failures++;
             res.pass = false;
-            res.err = err
+            res.err = err;
         }
         return res;
     })
     //Sort so that errors are together
-    .sort(function (a, b) {
+    .sort(function (a) {
         return a.pass ? 0 : 1;
     })
 

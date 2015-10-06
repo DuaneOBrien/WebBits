@@ -5,9 +5,29 @@
  * Splits it at the boundaries that mark the text/plain content (Discarding the HTML one)
  * And finally, parses it to extract WebBit Urls into JSON story format
  */
+'use strict';
 var fs = require('fs'),
     path = require('path'),
     files = process.argv.slice(2);
+
+
+function Story() {
+    return {
+        category: '',
+        headline: '',
+        urls: []
+    };
+}
+
+//Simple one to prevent array index out of bounds
+function BufferedData(data) {
+
+    return {
+        get: function (i) {
+            return (i >= data.length) ? {} : {text: data[i], isUrl: data[i].match(/^http/)};
+        }
+    };
+}
 
 files.forEach(function (f) {
 //These files are small enough to handle in-memory. No need to process a stream
@@ -19,8 +39,8 @@ files.forEach(function (f) {
 
     //0-Pad months and days in output file. Much easier to do here than in applescript
     fileName = fileName.split('-');
-    fileName[1] = ('0'+fileName[1]).slice(-2);
-    fileName[2] = ('0'+fileName[2]).slice(-2);
+    fileName[1] = ('0' + fileName[1]).slice(-2);
+    fileName[2] = ('0' + fileName[2]).slice(-2);
     fileName = fileName.join('-');
 
     outfile = '../archive/' + fileName + '.json';
@@ -78,7 +98,7 @@ files.forEach(function (f) {
             currentStory.headline = line0.text;
             currentStory.urls.push(line1.text);
 
-            isStoryComplete = !line2.isUrl //Means a new story (In the same category) is coming up
+            isStoryComplete = !line2.isUrl; //Means a new story (In the same category) is coming up
             i = i + 1;
         }
 
@@ -117,22 +137,4 @@ files.forEach(function (f) {
     fs.writeFileSync(outfile, JSON.stringify(stories));
 });
 
-
-function Story() {
-    return {
-        category: '',
-        headline: '',
-        urls: []
-    };
-}
-
-//Simple one to prevent array index out of bounds
-function BufferedData(data) {
-
-    return {
-        get: function (i) {
-            return (i >= data.length) ? {} : {text: data[i], isUrl: data[i].match(/^http/)};
-        }
-    }
-}
 return true;

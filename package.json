@@ -8,13 +8,15 @@
   },
   "scripts": {
     "test": "find . -name \"*json\" | xargs node test/index.js ",
-    "update archive": "grunt index && git add archives.json",
-    "lint": "."
+    "update archive": "grunt index && git add archive.json",
+    "lint": "grunt lint",
     "validate": "npm ls"
   },
   "pre-commit": [
+    "lint",
     "update archive",
-    "lint"
+    "test",
+    "validate"
   ],
   "repository": {
     "type": "git",
@@ -28,12 +30,11 @@
   "homepage": "https://github.com/lmarkus/WebBits#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
+    "grunt-eslint": "^17.2.0",
     "pre-commit": "^1.1.1",
     "precommit-hook": "^3.0.0"
   },
-  "pre-commit": [
-    "lint",
-    "validate",
-    "test"
-  ]
+  "dependencies": {
+    "eslint": "^1.6.0"
+  }
 }
