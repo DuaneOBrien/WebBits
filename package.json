@@ -7,8 +7,9 @@
     "test": "test"
   },
   "scripts": {
-    "lint": "find . -name \"*json\" | xargs node test/index.js ",
+    "test": "find . -name \"*json\" | xargs node test/index.js ",
     "update archive": "grunt index && git add archives.json",
+    "lint": "."
     "validate": "npm ls"
   },
   "pre-commit": [
