@@ -55,7 +55,7 @@ $(function () {
      */
     function renderEdition(edition) {
         var editionName = edition;
-        if (edition !== 'current') {
+        if (edition !== 'current' && edition !== 'next') {
             edition = '/archive/' + edition;
         }
 

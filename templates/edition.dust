@@ -6,6 +6,9 @@
             {#.stories}
                 <li>
                     <strong>{.headline}</strong><br>
+                    {?.comment}
+                        <span>{.comment}</span><br>
+                    {/.comment}
                     {#.urls}
                         <small><a href="{.}" target="_blank">{.}</a></small>{@sep}<br>{/sep}
                     {/.urls}
