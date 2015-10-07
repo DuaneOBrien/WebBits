@@ -40,6 +40,15 @@
     ]
   },
   {
+    "category": "Featured",
+    "headline": "Facebook announces satellite internet project.  *Like*",
+    "comment":"Post from Mark Z, and white paper outlining all their 'Net from the heavens' plans",
+    "urls": [
+      "https://www.facebook.com/zuck/posts/10102407675865061",
+      "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/t39.2365-6/851574_611544752265540_1262758947_n.pdf"
+    ]
+  },
+  {
     "category": "Commerce",
     "headline": "RBI allows banks to use e-payments for imports",
     "comment":"The next big market heats up even more.",
@@ -127,6 +136,14 @@
     "comment":"How would you debug if you didn't have your IDE around?",
     "urls": [
       "http://spin.atomicobject.com/2015/09/25/debug-node-js"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Bootstrap 4 Interactive Tutorial",
+    "comment":"Bootstrap 4 is still in alpha, but you can start learning the basics",
+    "urls": [
+      "http://www.quackit.com/bootstrap/bootstrap_4/tutorial/"
     ]
   }
 ]
