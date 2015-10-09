@@ -1,0 +1,181 @@
+[
+  {
+    "category": "Featured",
+    "headline": "Promises in wicked detail",
+    "comment":"Everything you ever wanted to know about promises in Javascript",
+    "urls": [
+      "http://www.mattgreer.org/articles/promises-in-wicked-detail/"]
+  },
+  {
+    "category": "Featured",
+    "headline": "Your UI isn't a Disney movie",
+    "comment":"",
+    "urls": [
+      "https://medium.com/@sophie_paxtonUX/your-ui-isn-t-a-disney-movie-703f7fbd24d2"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "What's new in Chrome DevTools",
+    "comment":"Front end debug work is about to get a whole lot easier...",
+    "urls": [
+      "https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "PayPal Named One of the Best Global Brands for 2015",
+    "comment":"See the full list, find PayPal, and then read the comment by Christina Smedley",
+    "urls": [
+      "http://interbrand.com/best-brands/best-global-brands/2015/ranking/",
+      "http://finance.yahoo.com/news/paypal-named-one-best-global-145400911.html"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Fedor Indutny joins PayPal",
+    "comment":"Core NodeJS contributor joins KrakenJs team. Coming soon to a Slack chat near you...",
+    "urls": [
+      "https://twitter.com/kraken_js/status/651051919138385920"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Sane, scalable Angular apps are tricky, but not impossible.",
+    "comment":"By our own Daniel Brain...",
+    "urls": [
+      "https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Facebook announces satellite internet project.  *Like*",
+    "comment":"Post from Mark Z, and white paper outlining all their 'Net from the heavens' plans",
+    "urls": [
+      "https://www.facebook.com/zuck/posts/10102407675865061",
+      "https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-ash3/t39.2365-6/851574_611544752265540_1262758947_n.pdf"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "RBI allows banks to use e-payments for imports",
+    "comment":"The next big market heats up even more.",
+    "urls": [
+      "http://www.thepaypers.com/online-payments/rbi-allows-banks-to-use-e-payments-for-imports/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Pinterest Expands Buyable Pins To More E-Commerce Platforms",
+    "comment":"",
+    "urls": [
+      "http://techcrunch.com/2015/10/05/pinterest-expands-buyable-pins-to-more-e-commerce-platforms-reaching-thousands-of-merchants/#.p8suhk:tbl3"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Trans Pacific Partnership to open e-commerce floodgates",
+    "comment":"Given our global footprint, PayPal probably stands to benefit greatly from this.",
+    "urls": [
+      "http://www.afr.com/technology/trans-pacific-partnership-to-open-ecommerce-floodgates-20151005-gk20wz",
+      "https://ustr.gov/trade-agreements/free-trade-agreements/trans-pacific-partnership/tpp-chapter-chapter-negotiating-6"
+
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Stripe - Instant debit card transfers",
+    "comment":"Send money, instantly without using a bank account",
+    "urls": [
+      "https://stripe.com/blog/instant-debit-card-transfers"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Amazon - Handmade by Amazon",
+    "comment":"Basically, Etsy by Amazon",
+    "urls": [
+      "http://services.amazon.com/handmade/handmade.htm"
+    ]
+  },
+  {
+    "category": "Rest of the Crop",
+    "headline": "How to make sure nothing gets done at work",
+    "comment":"Can you spot the World Word 2 spy at your next meeting?",
+    "urls": [
+      "http://fortune.com/2015/09/30/workplace-bureaucracy-simple-sabotage/"
+    ]
+  },
+  {
+    "category": "Rest of the Crop",
+    "headline": "Did I remember to test for...?",
+    "comment":"Old, but good QA checklist from Microsoft. Can you think of 380 things to test on the latest app you built?",
+    "urls": [
+      "http://blogs.msdn.com/b/micahel/archive/2004/07/07/did-i-remember-to.aspx"
+    ]
+  },
+  {
+    "category": "Rest of the Crop",
+    "headline": "Why I'm The Best Programmer In The World*",
+    "comment":"",
+    "urls": [
+      "http://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/"
+    ]
+  },
+  {
+    "category": "Rest of the Crop",
+    "headline": "No-Flash Clipboard for [most] browsers",
+    "comment":"",
+    "urls": [
+      "https://github.com/zenorocha/clipboard.js"
+    ]
+  },
+  {
+    "category": "Rest of the Crop",
+    "headline": "RegExr",
+    "comment":"RegExr is an online tool to learn, build, & test Regular Expressions. (Think JSFiddle for Regex)",
+    "urls": [
+      "http://regexr.com/"
+    ]
+  },
+  {
+    "category": "Rest of the Crop",
+    "headline": "The evolution of a Software Engineer",
+    "comment":"Side note: I don't miss Java.",
+    "urls": [
+      "https://medium.com/@webseanhickey/the-evolution-of-a-software-engineer-db854689243"
+    ]
+  },
+  {
+    "category": "Rest of the Crop",
+    "headline": "Family Guy's Brian in pure CSS",
+    "comment":"Anybody up for making a CSS Dan Schulman?",
+    "urls": [
+      "http://codepen.io/rachel_web/pen/VveQPW"
+    ]
+  },
+  {
+    "category": "Rest of the Crop",
+    "headline": "Volkswagen Unit Test Framework",
+    "comment":"Guaranteed to make your tests pass, or your money back!",
+    "urls": [
+      "https://github.com/auchenberg/volkswagen"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Three ways to debug Node.js",
+    "comment":"How would you debug if you didn't have your IDE around?",
+    "urls": [
+      "http://spin.atomicobject.com/2015/09/25/debug-node-js"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Bootstrap 4 Interactive Tutorial",
+    "comment":"Bootstrap 4 is still in alpha, but you can start learning the basics",
+    "urls": [
+      "http://www.quackit.com/bootstrap/bootstrap_4/tutorial/"
+    ]
+  }
+]
