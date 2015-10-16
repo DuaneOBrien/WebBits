@@ -1,147 +1,18 @@
 [
   {
     "category": "Featured",
-    "headline": "ES6 interactive guide",
-    "comment": "Get familiar with and play with upcoming ES6 features",
+    "headline": "",
+    "comment": "",
     "urls": [
-      "http://projects.formidablelabs.com/es6-interactive-guide/#/"
+      ""
     ]
   },
   {
-    "category": "Featured",
-    "headline": "Sane, scalable Angular apps are tricky, but not impossible. ",
-    "comment": "By our own Daniel Brain",
+    "category": "",
+    "headline": "",
+    "comment": "",
     "urls": [
-      "https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef"
-    ]
-  },
-  {
-    "category": "Featured",
-    "headline": "Effective Learning Strategies for Programmers",
-    "comment": "Break out of your rut",
-    "urls": [
-      "http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/"
-    ]
-  },
-  {
-    "category": "Featured",
-    "headline": "The Little Printf",
-    "comment": "A bittersweet bedtime story for developers",
-    "urls": [
-      "http://ferd.ca/the-little-printf.html"
-    ]
-  },
-  {
-    "category": "What the competition is up to...",
-    "headline": "Square prepares to file for IPO",
-    "comment": "See the press release, and the S-1 document. A few selected bits: -They have an accumulated deficit of $473.2 million.  -A single customer cost them $5.6M in fraud. -They lost $56M on the starbucks deal",
-    "urls": [
-      "https://squareup.com/news/sq",
-      "https://www.sec.gov/Archives/edgar/data/1512673/000119312515343733/d937622ds1.htm"
-    ]
-  },
-  {
-    "category": "Commerce",
-    "headline": "Facebook gears up for in-app purchases",
-    "comment": "For when you *really* like something",
-    "urls": [
-      "http://www.wired.com/2015/10/facebook-testing-shopping-section-app/"
-    ]
-  },
-  {
-    "category": "Commerce",
-    "headline": "PayPal will pay for your return shipping",
-    "comment": "For the `Maybe I shoudn't have bought that` crowd...",
-    "urls": [
-      "http://money.cnn.com/2015/10/13/technology/paypal-free-return-shipping/index.html?section=money_latest"
-    ]
-  },
-  {
-    "category": "Events",
-    "headline": "Quickbooks Connect",
-    "comment": "Nov 2 - 4, San Jose",
-    "urls": [
-      "http://quickbooksconnect.com/"
-    ]
-  },
-  {
-    "category": "Events",
-    "headline": "Node.JS interactive",
-    "comment": "Dec 8-9, Portland",
-    "urls": [
-      "http://interactive.nodejs.org/"
-    ]
-  },
-  {
-    "category": "Tutorials",
-    "headline": "Angular Crash Course",
-    "comment": "Collection of Angular resources to get you started",
-    "urls": [
-      "https://www.outlearn.com/learn/vkarpov15/angular-crash-course"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Node v4.2.0(LTS) released",
-    "comment": "This is node's first Long Term Support release.  This may be in your future soon...",
-    "urls": [
-      "https://nodejs.org/en/blog/release/v4.2.0/"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Testing and deploying with ordered npm run scripts",
-    "comment": "Keeping things consistent",
-    "urls": [
-      "http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts?is_related_post=1"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Your comments are making your code slower!*",
-    "comment": "*Click-bait headline. Read about this V8 optimizer quirk.",
-    "urls": [
-      "https://top.fse.guru/nodejs-a-quick-optimization-advice-7353b820c92e"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Code Reviews - You're doing them wrong.",
-    "comment": "Some sound advice by former PayPalian Nick Peddy",
-    "urls": [
-      "https://medium.com/@HHCOEngineering/code-reviews-c1a69008464b"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Promi-sees. A promise visualization playground",
-    "comment": "Visualize the logic flow behind promises",
-    "urls": [
-      "http://bevacqua.github.io/promisees/"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Why does HTML think `chucknorris` is a color",
-    "comment": "+insert epic Chuck Norris joke here+",
-    "urls": [
-      "http://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "The Top 20 Programming languages of 2015",
-    "comment": "You won't believe #11...",
-    "urls": [
-      "http://fossbytes.com/coding-trends-the-top-20-programming-languages-of-2015/"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "The Accenture Mumbai office starts their day dancing.",
-    "comment": "Maybe we should do Chicken-Dance-Thursdays at PayPal?",
-    "urls": [
-      "https://www.youtube.com/watch?v=aX6p7sbQn4s"
+      ""
     ]
   }
 ]
