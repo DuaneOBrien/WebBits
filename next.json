@@ -1,146 +1,18 @@
 [
   {
     "category": "Featured",
-    "headline": "A Cartoon Intro to Redux",
+    "headline": "",
     "comment": "",
     "urls": [
-      "https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.gnxi21khv"
+      ""
     ]
   },
   {
-    "category": "Featured",
-    "headline": "<input> I ♡ you, but you're bringing me down",
-    "comment": "A story about <input>, how it got to be the jerk that it is, and why it needs to die in a fire.",
-    "urls": [
-      "http://meowni.ca/posts/a-story-about-input/"
-    ]
-  },
-  {
-    "category": "Featured",
-    "headline": "The art of debugging",
-    "comment": "More art than science...",
-    "urls": [
-      "https://remysharp.com/2015/10/14/the-art-of-debugging"
-    ]
-  },
-  {
-    "category": "Featured",
-    "headline": "NodeJS Security Checklist",
-    "comment": "Going beyond Lusca",
-    "urls": [
-      "https://blog.risingstack.com/node-js-security-checklist/"
-    ]
-  },
-  {
-    "category": "Commerce",
-    "headline": "Square Vs PayPal",
-    "comment": "Good data snapshot of both companies",
-    "urls": [
-      "http://www.fool.com/investing/general/2015/10/19/square-vs-paypal-can-david-beat-goliath.aspx"
-    ]
-  },
-  {
-    "category": "Commerce",
-    "headline": "Venmo, 5 years ago",
-    "comment": "See the original vision",
-    "urls": [
-      "https://medium.com/@thenewb/venmo-five-years-ago-3d361563b98f#.pzlqwqz2w"
-    ]
-  },
-  {
-    "category": "What the competition is up to...",
-    "headline": "Quickbook integrates invoice financing",
-    "comment": "With a twist...",
-    "urls": [
-      "http://www.pymnts.com/news/b2b-payments/2015/quickbooks-integrates-invoice-financing-with-a-twist/"
-    ]
-  },
-  {
-    "category": "Events",
-    "headline": "Hacking EDU",
-    "comment": "Educational Hackathon. - San Mateo, CA - 2015-10-24",
-    "urls": [
-      "http://hackingedu.co/#apply"
-    ]
-  },
-  {
-    "category": "Events",
-    "headline": "Enterprise JS",
-    "comment": "JS development for the enterprise - Mountainview, CA - 2015-10-27",
-    "urls": [
-      "https://enterprisejs.io/"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "jQuery tips everyone should know",
-    "comment": "$$$",
-    "urls": [
-      "https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Best practices for using promises in JS",
-    "comment": "read().then(learn).then(apply)",
-    "urls": [
-      "https://60devs.com/best-practices-for-using-promises-in-js.html"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "RequestDiff",
-    "comment": "Quickly see the differences between two http requests",
-    "urls": [
-      "http://requestdiff.com/"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Reading List: FullScreen and Dialog HTML5 APIs",
+    "category": "",
+    "headline": "",
     "comment": "",
     "urls": [
-      "http://thenewcode.com/74/Web-Developer-Reading-List-The-HTML5-Fullscreen-and-Dialog-APIs?utm_source=html5weekly&utm_medium=email"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Chalkline",
-    "comment": "Draw a colored line on console. Great for quick debug markers.",
-    "urls": [
-      "https://www.npmjs.com/package/chalkline"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Raiders of the lost Web",
-    "comment": "Here today, gone tomorrow.",
-    "urls": [
-      "http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "ES6 Quiz",
-    "comment": "Pop-quiz Hotshot!  (Use left/right arrow keys to navigate)",
-    "urls": [
-      "http://maxwellito.github.io/es6-quiz-slides/#/"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "Polarr 3 Web Photo Editor",
-    "comment": "Powerful online photo editor, reviewed.",
-    "urls": [
-      "http://thenextweb.com/apps/2015/10/15/hands-on-with-polarr-3-web-photo-editor-also-released-for-chrome-and-windows-10/"
-    ]
-  },
-  {
-    "category": "The rest of the crop",
-    "headline": "GOTOs in Javascript",
-    "comment": "Crazy developer unleashes eldricht evil on JS community.",
-    "urls": [
-      "https://rreverser.com/gotos-in-javascript-now-its-real/"
+      ""
     ]
   }
 ]
