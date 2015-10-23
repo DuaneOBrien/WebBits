@@ -81,6 +81,14 @@
   },
   {
     "category": "The rest of the crop",
+    "headline": "Best practices for using promises in JS",
+    "comment": "read().then(learn).then(apply)",
+    "urls": [
+      "https://60devs.com/best-practices-for-using-promises-in-js.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
     "headline": "RequestDiff",
     "comment": "Quickly see the differences between two http requests",
     "urls": [
