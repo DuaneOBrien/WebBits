@@ -1,0 +1,162 @@
+[
+  {
+    "category": "Featured",
+    "headline": "ES6 Overview in 350 Bullet Points",
+    "comment": "The ultimate ES6 summary",
+    "urls": [
+      "https://ponyfoo.com/articles/es6"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Developers: The Definitive Guide To Developing Yourself.",
+    "comment": "Great piece on self-development",
+    "urls": [
+      "http://www.jamahiel.com/post/developers-guide-to-developing-yourself"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Should I use a button or a link?",
+    "comment": "The eternal question.",
+    "urls": [
+      "http://www.blonde.net/blog/2015/09/21/ux-dilemmas-should-we-use-button-or-link"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Critical Path Performance Optimization",
+    "comment": "Lessons from the trenches",
+    "urls": [
+      "https://ponyfoo.com/articles/critical-path-performance-optimization"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Why HomeJoy Failed",
+    "comment": "A window into the sharing economy",
+    "urls": [
+      "https://medium.com/backchannel/why-homejoy-failed-bb0ab39d901a#.8obl8ysp2"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "LetsEncrypt.org",
+    "comment": "Free, open, automated Certificate Authority. Never pay for SSL certs again! ",
+    "urls": [
+      "https://letsencrypt.org/about/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "You will soon be able to shop using Venmo",
+    "comment": "Venmo for Merchants",
+    "urls": [
+      "http://fortune.com/2015/10/28/venmo-paypal-merchants/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "W3C initiates internet-based payments standards",
+    "comment": "HTML5 + $$$",
+    "urls": [
+      "http://www.thepaypers.com/online-payments/w3c-initiates-internet-based-payments-standards-to-boost-cashless-payments-online/761821-3"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "Debugging Node.js in Production",
+    "comment": "November 12 - @ Netflix (Los Gatos, CA)",
+    "urls": [
+      "http://www.eventbrite.com/e/debugging-nodejs-in-production-tickets-19219857110"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "Enterprise.JS",
+    "comment": "November 17 - Boston, MA (Featuring our own Trevor Livingston)",
+    "urls": [
+      "https://enterprisejs.io/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The State of Frontend Tooling",
+    "comment": "Picking the right tool",
+    "urls": [
+      "http://javascriptplayground.com/blog/2015/10/state-of-frontend-tooling/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Angular Cheat Sheet",
+    "comment": "Print and stick this next to your monitor",
+    "urls": [
+      "https://angular.io/cheatsheet"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Sit? Stand? Nifty new workstation lets you lie down on the job",
+    "comment": "This is the future of office seating. I hope.",
+    "urls": [
+      "http://arstechnica.com/gadgets/2015/10/sit-stand-nifty-new-workstation-lets-you-lie-down-on-the-job/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Warren Buffet's 50th Annual Letter on Berkshire Hathaway",
+    "comment": "The past, present and future of BH",
+    "urls": [
+      "http://www.berkshirehathaway.com/SpecialLetters/WEB%20past%20present%20future%202014.pdf"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Snyk",
+    "comment": "Find & Fix Known Vulnerabilities in Node.js Dependencies",
+    "urls": [
+      "https://snyk.io/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Comic Sans Criminal",
+    "comment": "You know who you are...",
+    "urls": [
+      "http://www.comicsanscriminal.com/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Essential Tool: Firefox’s screenshot Command",
+    "comment": "",
+    "urls": [
+      "http://meyerweb.com/eric/thoughts/2015/10/22/firefoxs-screenshot-command/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Lazy Loading Images on the web",
+    "comment": "Short and sweet guide",
+    "urls": [
+      "http://developer.telerik.com/featured/lazy-loading-images-on-the-web/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "How to use classes and sleep at night",
+    "comment": "Use Responsibly...",
+    "urls": [
+      "https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4#.ipybyrb41"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "How Soviets used IBM Selectric keyloggers to spy on US diplomats",
+    "comment": "The very first keylogger",
+    "urls": [
+      "http://arstechnica.com/security/2015/10/how-soviets-used-ibm-selectric-keyloggers-to-spy-on-us-diplomats/"
+    ]
+  }
+]
