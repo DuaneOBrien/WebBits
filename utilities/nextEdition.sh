@@ -10,23 +10,7 @@ cp next.json archive/${DATE}.json
 cp next.json current.json
 
 #Clear the next edition
-cat > next.json << EOF
-[
-  {
-    "category": "Featured",
-    "headline": "",
-    "comment": "",
-    "urls": [
-      ""
-    ]
-  },
-  {
-    "category": "",
-    "headline": "",
-    "comment": "",
-    "urls": [
-      ""
-    ]
-  }
-]
-EOF
+cp templates/clean.json next.json
+
+#Commit and Tag (Done as && commands in case of failure)
+git add . && git commit -m "${DATE} edition" && git tag "${DATE}"
