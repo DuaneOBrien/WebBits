@@ -8,7 +8,39 @@
     ]
   },
   {
-    "category": "",
+    "category": "Commerce",
+    "headline": "",
+    "comment": "",
+    "urls": [
+      ""
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "",
+    "comment": "",
+    "urls": [
+      ""
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "",
+    "comment": "",
+    "urls": [
+      ""
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "",
+    "comment": "",
+    "urls": [
+      ""
+    ]
+  },
+  {
+    "category": "The rest of the crop",
     "headline": "",
     "comment": "",
     "urls": [

@@ -1,0 +1,179 @@
+[
+  {
+    "category": "Featured",
+    "headline": "Life With My Robot Secretary",
+    "comment": "Skynet will happen via e-mail",
+    "urls": [
+      "http://www.fastcodesign.com/3052646/innovation-by-design/life-with-my-robot-secretary"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Choosing a Front End Framework",
+    "comment": "Angular 2.0 vs React vs Ember",
+    "urls": [
+      "http://smashingboxes.com/ideas/choosing-a-front-end-framework-angular-ember-react"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Things To Avoid When Writing CS",
+    "comment": "Parts I and II",
+    "urls": [
+      "https://medium.com/@Heydon/things-to-avoid-when-writing-css-1a222c43c28f",
+      "https://medium.com/@Heydon/things-to-avoid-when-writing-css-part-2-7639f0f6880d"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Choosing a Front End Framework",
+    "comment": "Angular 2.0 vs React vs Ember",
+    "urls": [
+      "http://smashingboxes.com/ideas/choosing-a-front-end-framework-angular-ember-react"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "A complete guide to FlexBox",
+    "comment": "",
+    "urls": [
+      "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "How Venmo Won In One Of The Most Crowded Spaces In Tech",
+    "comment": "",
+    "urls": [
+      "http://techcrunch.com/2015/11/04/how-venmo-won-in-one-of-the-most-crowded-spaces-in-tech/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Bitcoin to become sixth largest global reserve currency by 2030",
+    "comment": "Time to invest in BTC!",
+    "urls": [
+      "http://www.ibtimes.co.uk/bitcoin-become-sixth-largest-global-reserve-currency-by-2030-1526925"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Jamie Dimon: Virtual Currency Will Be Stopped",
+    "comment": "Not the best time to invest in BTC!",
+    "urls": [
+      "http://fortune.com/2015/11/04/jamie-dimon-virtual-currency-bitcoin/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Resources for learning ES6 in-depth",
+    "comment": "",
+    "urls": [
+      "https://gist.github.com/tdd/0841b940f9adc59740a9"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "Hiking with Women Who Code",
+    "comment": "Sunday, November 8, 2015 - Bay Area",
+    "urls": [
+      "http://www.meetup.com/Women-Who-Code-Silicon-Valley/events/224250546/"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Amazon Register to be discontinued",
+    "comment": "Another one bites the dust.",
+    "urls": [
+      "http://register.amazon.com/help/201962930"
+    ]
+  },
+  {
+    "category": "Tools",
+    "headline": "WebStorm 11 is out. See the new features list",
+    "comment": "Support for all things JavaScript",
+    "urls": [
+      "https://www.jetbrains.com/webstorm/whatsnew/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "How to create CSS animations and Transitions",
+    "comment": "Intro to css animations and transitions and how to use them.",
+    "urls": [
+      "http://zurb.com/university/lessons/how-to-create-css-animations-and-transitions"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "How Carders Can Use eBay as a Virtual ATM",
+    "comment": "",
+    "urls": [
+      "http://krebsonsecurity.com/2015/11/how-carders-can-use-ebay-as-a-virtual-atm/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Understanding Node.js Memory Leaks",
+    "comment": "",
+    "urls": [
+      "https://blog.appdynamics.com/nodejs/understanding-node-js-memory-leaks"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Purdy",
+    "comment": "Pretty=print Objects with Color",
+    "urls": [
+      "https://www.npmjs.com/package/purdy"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The Keyword ‘this’",
+    "comment": "Five Simple Rules to Know and Understand it Forever",
+    "urls": [
+      "http://amiraanuar.com/the-keyword-this-and-five-simple-rules-to-know-and-understand-it-forever/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The Origin of Javascript",
+    "comment": "[Podcast]",
+    "urls": [
+      "https://overcast.fm/+B1TGzMVPY"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "How to Be Awesome",
+    "comment": "Part 1",
+    "urls": [
+      "http://blog.stackoverflow.com/2015/09/how-to-be-awesome/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Stop Making Sense!",
+    "comment": "problems.js",
+    "urls": [
+      "https://medium.com/message/stop-making-sense-b2aa7f0d3079"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "CSS Can kill you!",
+    "comment": "Careful with those overflows...",
+    "urls": [
+      "https://twitter.com/old_sound/status/641649070495408128"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "How It All Started",
+    "comment": "40 Classic Photos of Tech Companies",
+    "urls": [
+      "http://mailingtube.net/how-it-all-started-40-classic-photos-of-tech-companies-youve-got-to-see/"
+    ]
+  }
+]
