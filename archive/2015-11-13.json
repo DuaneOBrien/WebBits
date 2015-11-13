@@ -1,0 +1,138 @@
+[
+  {
+    "category": "Featured",
+    "headline": "Medium’s CSS is actually pretty ****** good",
+    "comment": "A look at the evolution of Medium's CSS",
+    "urls": [
+      "https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Facebook's New Milestones in Artificial Intelligence Research",
+    "comment": "Skynet is all about the \"likes\"",
+    "urls": [
+      "http://newsroom.fb.com/news/2015/11/new-milestones-in-artificial-intelligence-research/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "How we hold our gadgets",
+    "comment": "I'm all thumbs...",
+    "urls": [
+      "http://alistapart.com/article/how-we-hold-our-gadgets"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "On Deadlines & Death Marches in Software Projects",
+    "comment": "",
+    "urls": [
+      "https://medium.com/product-love/on-deadlines-death-marches-in-software-projects-ef20283d7fb"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Xoom Acquisition by PayPal is complete!",
+    "comment": "Welcome to the family...",
+    "urls": [
+      "http://www.businesswire.com/news/home/20151112005780/en/PayPal-Completes-Acquisition-Xoom"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "China’s Singles Day Sets New Historic Record Sales for Online Retailers",
+    "comment": "AliPay processed 85,900 Transaction per Second at its   peak",
+    "urls": [
+      "http://www.ledinside.com/news/2015/11/chinas_singles_day_sets_new_historic_record_sales_for_online_retailers"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Multicore programming in nodeJS",
+    "comment": "Quick tutorial on using clustering with Node.",
+    "urls": [
+      "https://dzone.com/articles/multicore-programming-in-nodejs"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Introduction to ES6 Arrow Functions",
+    "comment": "=> Read!",
+    "urls": [
+      "https://strongloop.com/strongblog/an-introduction-to-javascript-es6-arrow-functions/"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "BattleHack World Finals",
+    "comment": "PayPal Town Hall - San Jose, Nov 14-15",
+    "urls": [
+      "https://2015.battlehack.org/finals"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Apple rumored to launch P2P Payments service",
+    "comment": "",
+    "urls": [
+      "http://www.macrumors.com/2015/11/11/apple-person-to-person-payment-service/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "CSS Shapes editor.",
+    "comment": "[Chrome extension]",
+    "urls": [
+      "https://github.com/oslego/chrome-css-shapes-editor"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "A Refresher on Regression Analysis",
+    "comment": "",
+    "urls": [
+      "https://hbr.org/2015/11/a-refresher-on-regression-analysis"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Ottoman.js",
+    "comment": "Node.js ODM for Couchbase",
+    "urls": [
+      "http://ottomanjs.com/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The Web Authentication Arms Race",
+    "comment": "The game is afoot.",
+    "urls": [
+      "http://blog.slaks.net/2015-10-13/web-authentication-arms-race-a-tale-of-two-security-experts/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Engineer Matching",
+    "comment": "Automated Hacker Friend-Finder ",
+    "urls": [
+      "https://www.engineermatching.com/matching"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Calipers.js",
+    "comment": "A library to quickly measure image dimension in Node",
+    "urls": [
+      "https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Mad Max Pixel Art",
+    "comment": "Who doesn't love pixels art?",
+    "urls": [
+      "https://www.behance.net/gallery/26428843/MAD-MAX-Fury-Road"
+    ]
+  }
+]
