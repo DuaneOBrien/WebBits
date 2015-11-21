@@ -1,0 +1,162 @@
+[
+  {
+    "category": "Featured",
+    "headline": "CSS Dan Schulman",
+    "comment": "By our very own Hoa Doan Klein",
+    "urls": [
+      "http://hoaboat.github.io/danSchulman.html"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "The complete guide to using ES6 with Babel 6",
+    "comment": "Must have for ES6 development",
+    "urls": [
+      "jamesknelson.com/the-complete-guide-to-es6-with-babel-6"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "The DNS Root Signing Ceremony",
+    "comment": "DNS is like a nuclear misile launch.",
+    "urls": [
+      "https://www.cloudflare.com/dnssec/root-signing-ceremony/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "PayPal launches WebHooks dashboard",
+    "comment": "Great for custom integrations",
+    "urls": [
+      "https://devblog.paypal.com/webhooks-dashboard/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "10 design principles — for developers",
+    "comment": "",
+    "urls": [
+      "https://medium.com/@nirbenita/the-10-design-heuristics-for-developers-1e70a9dc58a7"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "From Pages to Patterns: An Exercise for Everyone",
+    "comment": "",
+    "urls": [
+      "http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Shift Card",
+    "comment": "A debit card that uses Bitcoin",
+    "urls": [
+      "https://blog.coinbase.com/2015/11/20/introducing-the-shift-card/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Managing multiple Node versions with NVM",
+    "comment": "ETOOMANYNODES",
+    "urls": [
+      "http://jilles.me/managing-node-versions-with-nvm/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Responsive Typography",
+    "comment": "Make sure your designs look good everywhere",
+    "urls": [
+      "http://designmodo.com/responsive-typography-tutorial/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "How to use CSS3 Multiple columns properties",
+    "comment": "Pairs great with the previous tutorial",
+    "urls": [
+      "http://codepen.io/michaelgearon/post/how-to-use-css3-multiple-columns"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "Hour of Code @ PayPal",
+    "comment": "Volunteers needed! Contact me for more info :) ",
+    "urls": [
+      "http://www.signupgenius.com/go/10c0d4baaab2da7fa7-hour"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Square IPOs!",
+    "comment": "Shares Up 24%",
+    "urls": [
+      "http://techcrunch.com/2015/11/19/square-nyse-pop/"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Western Union P2P payments through WeChat",
+    "comment": "Another Mobile P2P Player",
+    "urls": [
+      "http://blogs.wsj.com/cio/2015/11/17/western-union-offers-mobile-payments-on-wechat-social-app/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Plot.ly Goes Open Sources",
+    "comment": "Amazing JavaScript graphing library",
+    "urls": [
+      "https://plot.ly/javascript/open-source-announcement/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The Non-Designer's Essential Glossary of Web Design Terms",
+    "comment": "Decipher what those UED people are talking about...",
+    "urls": [
+      "http://blog.hubspot.com/marketing/non-designers-web-design-glossary"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "DevArt",
+    "comment": "Art made with code",
+    "urls": [
+      "https://devart.withgoogle.com/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "MyMoustache.net",
+    "comment": "Moustachify your friends (or foes...)",
+    "urls": [
+      "https://www.mymoustache.net"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Every developer needs a code portfolio",
+    "comment": "Where's yours?",
+    "urls": [
+      "https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110#.rvha8whyt"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "10 Habits of a Happy Node Hacker (2016)",
+    "comment": "",
+    "urls": [
+      "http://blog.heroku.com/archives/2015/11/10/node-habits-2016"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Keyboard Waffle Iron",
+    "comment": "Perfect holiday gift for coders!",
+    "urls": [
+      "http://www.thekeyboardwaffleiron.com/"
+    ]
+  }
+]
