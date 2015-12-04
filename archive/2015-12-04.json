@@ -1,0 +1,178 @@
+[
+  {
+    "category": "Featured",
+    "headline": "How do Promises work?",
+    "comment": "",
+    "urls": [
+      "http://robotlolita.me/2015/11/15/how-do-promises-work.html"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Khan Academy JS Style Guide",
+    "comment": "",
+    "urls": [
+      "https://github.com/Khan/style-guides/blob/master/style/javascript.md"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "TIFU by using Math.random()",
+    "comment": "Why Randomness matters",
+    "urls": [
+      "https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.jnz3tqwwg"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Stack Overflow and the Zeitgeist of Computer Programming",
+    "comment": "",
+    "urls": [
+      "http://priceonomics.com/stack-overflow-and-the-zeitgeist-of-computer/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Closures are not magic",
+    "comment": "",
+    "urls": [
+      "http://renderedtext.com/blog/2015/11/18/closures-are-not-magic/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "28 Free Books for Learning Software Architecture",
+    "comment": "",
+    "urls": [
+      "http://codecondo.com/28-free-books-for-learning-software-architecture/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Banking apps accessed via smartwatches to exceed 100 mln by 2020",
+    "comment": "It's $$ o'clock",
+    "urls": [
+      "http://www.thepaypers.com/online-mobile-banking/banking-apps-accessed-via-smartwatches-to-exceed-100-mln-by-2020-report/762204-12?utm_campaign=20151130-automatic-newsletter&utm_medium=email&utm_source=newsletter&utm_content="
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "A Cynic’s Guide To Fintech",
+    "comment": "Hat tip to Myke Morgan",
+    "urls": [
+      "https://medium.com/bull-market/a-cynic-s-guide-to-fintech-3cd0995e0da3#.7ws7rflwt"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": " Configuring Babel 6 ",
+    "comment": "",
+    "urls": [
+      "www.2ality.com/2015/11/configuring-babel6.html"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "HAAAAAAAACK NIIIIIIIIIIIIIIIIII­IIIIIIIIIIGHT!",
+    "comment": "Food, Drink, JS - Wednesday, December 9, 2015 - 7:00 PM",
+    "urls": [
+      "http://www.meetup.com/BayNode/events/222654242/"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "FreshBooks takes on Square with $30 card reader",
+    "comment": "",
+    "urls": [
+      "http://venturebeat.com/2015/12/02/freshbooks-takes-on-square-with-30-card-reader-that-connects-in-store-payments-with-accountancy-software/"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Paypal Should be Scared of Apple’s Plans",
+    "comment": "",
+    "urls": [
+      "http://www.vcpost.com/articles/108458/20151124/apple-peer-to-peer-payment-pay.htm"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "#SlackDown: A lesson in brand interaction",
+    "comment": "No wonder we were all so productive last week.",
+    "urls": [
+      "https://medium.com/@JasonKristofor/slackdown-a-lesson-in-brand-interaction-17f8c82b9fce#.foq46bbzi"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "7 Cool modal animations in pure CSS",
+    "comment": "Source code included",
+    "urls": [
+      "http://codepen.io/designcouch/pen/obvKxm"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Let's Encrypt Enters Public Beta",
+    "comment": "Free SSL certs for everyone!",
+    "urls": [
+      "https://www.eff.org/deeplinks/2015/12/lets-encrypt-enters-public-beta"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "FizzBuzz implemented in CSS",
+    "comment": "Who needs a programming language.",
+    "urls": [
+      "https://twitter.com/ericwastl/status/667567483432402944"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Raspberry Pi Zero",
+    "comment": "The $5 Computer",
+    "urls": [
+      "https://www.raspberrypi.org/blog/raspberry-pi-zero/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Web Authentication Methods Explained",
+    "comment": "",
+    "urls": [
+      "https://blog.risingstack.com/web-authentication-methods-explained/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "To Get More Creative, Become Less Productive",
+    "comment": "",
+    "urls": [
+      "https://hbr.org/2015/11/to-get-more-creative-become-less-productive"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "jQuery’s Relevancy – There and Back Again",
+    "comment": "",
+    "urls": [
+      "http://developer.telerik.com/featured/jquerys-relevancy-there-and-back-again/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": " NativeScript 101: A Quickstart to Building Mobile Apps ",
+    "comment": "",
+    "urls": [
+      "https://www.udemy.com/nativescript-101-a-quickstart-to-building-mobile-apps/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Job security 101",
+    "comment": "Don't comment your code!",
+    "urls": [
+      "http://i.imgur.com/ncUs5es.png"
+    ]
+  }
+]
