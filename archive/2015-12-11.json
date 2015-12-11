@@ -1,0 +1,162 @@
+[
+  {
+    "category": "Featured",
+    "headline": "Universal React",
+    "comment": "React + ES6 + Babel tutorial",
+    "urls": [
+      "https://24ways.org/2015/universal-react/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "How Postgres executes a JOIN",
+    "comment": "DB refresher and excellent look at Postgres internals",
+    "urls": [
+      "http://patshaughnessy.net/2015/11/24/a-look-at-how-postgres-executes-a-tiny-join"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "The God Login",
+    "comment": "",
+    "urls": [
+      "http://blog.codinghorror.com/the-god-login/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "How to schedule background tasks in JavaScript",
+    "comment": "",
+    "urls": [
+      "http://www.sitepoint.com/how-to-schedule-background-tasks-in-javascript/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Banking APIs",
+    "comment": "In-depth interviews from 22 leading banks and fintech institutions on their current and future use of apis",
+    "urls": [
+      "https://www.axway.com/sites/default/files/report_files/axway_report_banking_apis_state_of_the_market_report_apidays.pdf"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Dan Schulman on the shift to mobile payments",
+    "comment": "",
+    "urls": [
+      "http://www.businessinsider.com/paypal-ceo-on-shift-to-mobile-payments-2015-12"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Using NodeJs without a local installation",
+    "comment": "",
+    "urls": [
+      "https://www.christianheilmann.com/2015/10/27/testing-out-node-and-express-without-a-local-install-or-editor/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Writing Command Line Tools with NodeJs",
+    "comment": "Who needs bash...",
+    "urls": [
+      "https://developer.atlassian.com/blog/2015/11/scripting-with-node/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Autocomplete on Ember / React",
+    "comment": "",
+    "urls": [
+      "http://codepen.io/Yuschick/pen/MKWzMJ"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "Tableau Day",
+    "comment": "December 16th - PayPal",
+    "urls": [
+      "http://www.tableau.com/learn/events/tableau-day-paypal-dec16"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "JS Winter Conference",
+    "comment": "December 14th-15th - PayPal",
+    "urls": [
+      "https://github.paypal.com/JSConference/winter"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Walmart Introduces Walmart Pay",
+    "comment": "Open, Scan, Done – It’s That Easy",
+    "urls": [
+      "http://news.walmart.com/news-archive/2015/12/10/walmart-introduces-walmart-pay"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The civilized alternative to Agile tribalism",
+    "comment": "",
+    "urls": [
+      "https://top.fse.guru/the-civilized-alternative-to-agile-tribalism-4c60d01428c0#.9pvx1jnza"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "eBay: How our CSS framework enforces accessibility",
+    "comment": "",
+    "urls": [
+      "http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Netflix - Debugging NodeJS in production",
+    "comment": "",
+    "urls": [
+      "techblog.netflix.com/2015/12/debugging-nodejs-in-production.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Stefanie Grewenig: OnConnectionLost",
+    "comment": "The life of an offline web application | JSConf EU 2015 ",
+    "urls": [
+      "https://www.youtube.com/watch?v=rw8Q9ZLDkEs"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The Non-Designer's Essential Glossary of Web Design Terms",
+    "comment": "What are these designers talking about...?",
+    "urls": [
+      "http://blog.hubspot.com/marketing/non-designers-web-design-glossary"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Why is processing a sorted array faster than an unsorted array",
+    "comment": "Remember that your code runs on a machine...",
+    "urls": [
+      "http://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-an-unsorted-array"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Unlock PDFs online",
+    "comment": "No Password? No Problem",
+    "urls": [
+      "http://smallpdf.com/unlock-pdf"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "GeekTyper",
+    "comment": "Impress your friends with you hacking skills",
+    "urls": [
+      "http://fediafedia.com/geektyper/"
+    ]
+  }
+]
