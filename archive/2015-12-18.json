@@ -1,0 +1,157 @@
+[
+  {
+    "category": "Featured",
+    "headline": "Clearing up the Babel 6 Ecosystem",
+    "comment": "By Jean-Charles Sisk",
+    "urls": [
+      "https://medium.com/@jcse/clearing-up-the-babel-6-ecosystem-c7678a314bf3#.oxswvllze"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Silicon Valley's cash party is coming to an end",
+    "comment": "Get ready for the hangover.",
+    "urls": [
+      "http://www.cnbc.com/2015/12/17/silicon-valleys-cash-party-is-coming-to-an-end.html"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Changes to Math.random() in Chrome/V8",
+    "comment": "Google article, and the original issue that sparked controversy.",
+    "urls": [
+      "http://v8project.blogspot.de/2015/12/theres-mathrandom-and-then-theres.html",
+      "https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "5 Tools for Learning and Writing Regular Expressions",
+    "comment": "",
+    "urls": [
+      "http://codecondo.com/learn-regex-online/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "My positive experience as a woman in tech",
+    "comment": "",
+    "urls": [
+      "http://lea.verou.me/2015/12/my-positive-experience-as-a-woman-in-tech/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "36 photos showing how Silicon Valley went from prune orchards to the center of the tech world",
+    "comment": "Know your history!",
+    "urls": [
+      "http://www.businessinsider.com/history-of-silicon-valley-in-photos-2015-11"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Tech and Banking Giants Ditch Bitcoin for Their Own Blockchain",
+    "comment": "",
+    "urls": [
+      "http://www.wired.com/2015/12/big-tech-joins-big-banks-to-create-alternative-to-bitcoins-blockchain/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "PayPal Platform Powers Facebook Payments",
+    "comment": "",
+    "urls": [
+      "https://www.braintreepayments.com/blog/braintree-drives-commerce-forward-with-facebook-messenger-and-uber/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Implement Braintree Payment with Node.js and MongoDB",
+    "comment": "",
+    "urls": [
+      "http://enormers.com/blog/implement-braintree-payment-with-nodejs-and-mongodb/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Adding ESLint to the Microsoft VS Code Editor",
+    "comment": "",
+    "urls": [
+      "http://blog.reybango.com/2015/12/17/adding-eslint-to-the-microsoft-vs-code-editor/"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "JS Remote Conf",
+    "comment": "The no-travel conference! JAN 14-16 2016",
+    "urls": [
+      "https://allremoteconfs.com/js-2016"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Promise-based waterfall",
+    "comment": "",
+    "urls": [
+      "https://remysharp.com/2015/12/18/promise-waterfall"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "BattleHack World Finals 2015 Highlights Reels",
+    "comment": "That Axe...",
+    "urls": [
+      "https://www.youtube.com/watch?v=9LFBfFjQFNI"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "React Native - UI component explorer",
+    "comment": "Demo, and source code",
+    "urls": [
+      "http://www.reactnative.com/uiexplorer/",
+      "https://github.com/facebook/react-native/tree/master/Examples/UIExplorer"
+
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Microsoft + Node.js Guidelines",
+    "comment": "Microsoft <3 Node.js!",
+    "urls": [
+      "https://github.com/Microsoft/nodejs-guidelines"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "My experience migrating to node 4.x",
+    "comment": "This will be relevant soon around here.",
+    "urls": [
+      "http://dschenkelman.github.io/2015/11/09/my-experience-migrating-to-node-4-x/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "20 Database Design Best Practices",
+    "comment": "Old, but good.",
+    "urls": [
+      "http://codebuild.blogspot.com/2011/07/20-database-design-best-practices.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "5 Timeless Responsive Design Layouts to Consider",
+    "comment": "",
+    "urls": [
+      "http://studio.uxpin.com/blog/5-useful-responsive-design-layouts-to-consider/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Javascript quiz. ES6 edition.",
+    "comment": "Who's the ES6 master around here?",
+    "urls": [
+      "http://perfectionkills.com/javascript-quiz-es6/"
+    ]
+  }
+]
