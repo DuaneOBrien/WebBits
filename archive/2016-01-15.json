@@ -1,0 +1,190 @@
+[
+  {
+    "category": "Featured",
+    "headline": "No, I Don't Want To Configure Your App!",
+    "comment": "Warning:  This blog post is a rant. A very. opinionated. long. and angry. rant.",
+    "urls": [
+      "http://robotlolita.me/2016/01/09/no-i-dont-want-to-configure-your-app.html"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Node by Numbers 2015",
+    "comment": "",
+    "urls": [
+      "https://nodesource.com/blog/node-by-numbers-2015/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Making your JavaScript Debuggable",
+    "comment": "",
+    "urls": [
+      "https://medium.com/@nodesource/making-your-javascript-debuggable-378ef589f76a#.7dib5x41b"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Future Visions",
+    "comment": "A Microsoft-inspired collection of Tech-SciFi stories. Free download link below",
+    "urls": [
+      "http://news.microsoft.com/futurevisions/",
+      "http://news.microsoft.com/futurevisions/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "24 Free Mockup and Wireframe Tools for Web Designers",
+    "comment": "Make your ideas look nice.",
+    "urls": [
+      "http://codecondo.com/free-wireframe-tools/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Bitcoin Doom and Gloom",
+    "comment": "Two articles outlining the major threats on BTC",
+    "urls": [
+      "https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.kfesvpm19",
+      "https://motherboard.vice.com/read/bitcoin-is-unsustainable"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "PayPal Just Appointed This Bitcoin Startup Entrepreneur to Its Board",
+    "comment": "",
+    "urls": [
+      "http://fortune.com/2016/01/13/paypal-adds-wences-casares-to-board/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Your first offline web app",
+    "comment": "Learn how to integrate a service worker into an existing application to make it work offline.",
+    "urls": [
+      "https://developers.google.com/web/fundamentals/getting-started/your-first-offline-web-app/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Javascript Regular Expressions ",
+    "comment": "In-depth Video Tutorial",
+    "urls": [
+      "https://egghead.io/lessons/javascript-javascript-regular-expressions-introduction?series=regex-in-javascript"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Gray text colors for better legibility/accessibility.",
+    "comment": "",
+    "urls": [
+      "http://codepen.io/nailaahmad/pen/yeoWZo"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "hack.summit() - A Virtual Eventfor Developers",
+    "comment": "Online, Feb 22nd-25th",
+    "urls": [
+      "https://hacksummit.org/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Introduction to JSON Web Tokens",
+    "comment": "",
+    "urls": [
+      "http://jwt.io/introduction/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "jQuery 3.0 Beta",
+    "comment": "(Also, Happy 10th anniversary, jQuery)",
+    "urls": [
+      "http://blog.jquery.com/2016/01/14/jquery-3-0-beta-released/",
+      "http://ejohn.org/blog/10th-anniversary-of-jquery/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "AVA",
+    "comment": "Parallel Test Runner, with a very interesting feature list. Example on how to switch from Mocha to AVA",
+    "urls": [
+      "https://github.com/sindresorhus/ava",
+      "https://github.com/sindresorhus/pageres/commit/663be15acb3dd2eb0f71b1956ef28c2cd3fdeed0"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Google’s surprising discovery about effective teams",
+    "comment": "",
+    "urls": [
+      "http://www.weforum.org/agenda/2015/12/googles-surprising-discovery-about-effective-teams"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "DailyEverything",
+    "comment": "A Daily Programming Challenge",
+    "urls": [
+      "http://dailyeverything.eu/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Revenant",
+    "comment": " A high level PhantomJS headless browser in Node.js ideal for task automation ",
+    "urls": [
+      "https://github.com/jiahaog/Revenant"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "ESLint needs your help!",
+    "comment": "Open issues that you can contribute to",
+    "urls": [
+      "https://github.com/eslint/eslint/labels/help%20wanted"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Master the JavaScript Interview: What is a Closure?",
+    "comment": "",
+    "urls": [
+      "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.16t9be9bt"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Iron Node",
+    "comment": "A Different Experience With Node.js JavaScript Debugging.",
+    "urls": [
+      "http://s-a.github.io/iron-node/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Cool iOS8 features",
+    "comment": "Master your iPhone!",
+    "urls": [
+      "http://danfrakes.com/2014/11/03/my-favorite-ios-8-features-big-and-small/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "How to write without writing",
+    "comment": "",
+    "urls": [
+      "http://blog.codinghorror.com/how-to-write-without-writing/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "It's a trap! - Emperor Palpatine's Poison Pill",
+    "comment": "Whitepaper on Galactic Economics, following the events on Return of the Jedi",
+    "urls": [
+      "http://arxiv.org/pdf/1511.09054v1.pdf"
+    ]
+  }
+]
