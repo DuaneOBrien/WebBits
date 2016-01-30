@@ -1,0 +1,164 @@
+[
+  {
+    "category": "Featured",
+    "headline": "Brave",
+    "comment": "Chromium based browser, centered around ad blocking (ish)",
+    "urls": [
+      "https://www.brave.com/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Coding by the Book",
+    "comment": "The 7 Books Every Software Developer Should Read",
+    "urls": [
+      "https://medium.com/@devbattles/coding-by-the-book-the-7-books-every-software-developer-should-read-9101fdf24735#.stml8yac5"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Object-Oriented JavaScript",
+    "comment": "A Deep Dive into ES6 Classes",
+    "urls": [
+      "http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "The importance of writing code that humans can read",
+    "comment": "",
+    "urls": [
+      "http://www.sitepoint.com/importance-of-code-that-humans-can-read/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "The end of Twitter",
+    "comment": "Not with a bang, but with 140 characters",
+    "urls": [
+      "http://www.newyorker.com/tech/elements/the-end-of-twitter"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Visualizing Concurrency",
+    "comment": "",
+    "urls": [
+      "https://divan.github.io/posts/go_concurrency_visualize/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Stolen Uber accounts worth more than stolen credit cards",
+    "comment": "",
+    "urls": [
+      "http://www.cnbc.com/2016/01/19/stolen-uber-accounts-worth-more-than-stolen-credit-cards.html"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Handy Bash feature: Process Substitution",
+    "comment": "",
+    "urls": [
+      "https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133#.ly97e65sb"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "CRUD application using AngularJs, NodeJs, MongoDB : ",
+    "comment": "Parts 1, 2, and 3",
+    "urls": [
+      "http://www.codeproject.com/Articles/1070392/CRUD-application-using-AngularJs-NodeJs-MongoDB-Pa",
+      "http://www.codeproject.com/Articles/1070393/CRUD-application-using-AngularJs-NodeJs-MongoDB-Pa",
+      "http://www.codeproject.com/Articles/1070394/CRUD-application-using-AngularJs-NodeJs-MongoDB-Pa"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "npm Camp - a community conference for all things npm",
+    "comment": " July 2016 Bay Area, CA, USA ",
+    "urls": [
+      "http://npm.camp"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "CaixaBank to include Samsung Pay in its mobile payment method offer",
+    "comment": "",
+    "urls": [
+      "http://press.lacaixa.es/caixabank/press-releases/caixabank-reaches-an-agreement-with-samsung-to-include-samsung-pay-in-its-mobile-payment-method-offer__1775-c-23548__.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The Noun Project",
+    "comment": "Icons for everything",
+    "urls": [
+      "https://thenounproject.com/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "pnpm - Performant npm",
+    "comment": "FAST npm client",
+    "urls": [
+      "https://github.com/rstacruz/pnpm"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "What's new in jQuery 3.0",
+    "comment": "",
+    "urls": [
+      "http://www.sitepoint.com/whats-new-jquery-use/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Emacs vs WebStorm for Node Development",
+    "comment": "",
+    "urls": [
+      "http://spin.atomicobject.com/2016/01/26/webstorm-nodejs-development/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "A Designer's guide to wearables",
+    "comment": "",
+    "urls": [
+      "https://wearablesguide.fjordnet.com/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The One Question You Should Ask About Every New Job",
+    "comment": "",
+    "urls": [
+      "http://www.nytimes.com/2015/12/20/opinion/sunday/the-one-question-you-should-ask-about-every-new-job.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Angular vs React : A Side-By-Side Comparison",
+    "comment": "",
+    "urls": [
+      "http://tutorials.pluralsight.com/review/angular-vs-react-a-side-by-side-comparison"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Progress bar noticeably slows down npm3 install ",
+    "comment": "",
+    "urls": [
+      "https://github.com/npm/npm/issues/11283#issuecomment-175246823"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Web Push Arrives in Firefox 44",
+    "comment": "",
+    "urls": [
+      "https://hacks.mozilla.org/2016/01/web-push-arrives-in-firefox-44/"
+    ]
+  }
+]
