@@ -1,0 +1,146 @@
+[
+  {
+    "category": "Featured",
+    "headline": "Permission to Fail",
+    "comment": "You are not your code.",
+    "urls": [
+      "https://keen.io/blog/135255657976/permission-to-fail"
+    ]
+  }, {
+    "category": "Featured",
+    "headline": "You keep using that word,... `MVP`",
+    "comment": "",
+    "urls": [
+      "http://www.erickarjaluoto.com/blog/you-keep-using-that-word-mvp/"
+    ]
+  }, {
+    "category": "Featured",
+    "headline": "1000 Chrome Experiments",
+    "comment": "Creative code demos that push the browser to its limits.",
+    "urls": [
+      "http://1000.chromeexperiments.com/"
+    ]
+  }, {
+    "category": "Featured",
+    "headline": "Forgo JS packaging? Not so fast",
+    "comment": "To bundle or not to bundle?",
+    "urls": [
+      "http://engineering.khanacademy.org/posts/js-packaging-http2.htm"
+    ]
+  }, {
+    "category": "Featured",
+    "headline": "A cartoon guide to Facebook's Relay",
+    "comment": "Complete 4-part series",
+    "urls": [
+      "https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5",
+      "https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-2-d4a2435aee59",
+      "https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-3-9d8fcf8db670",
+      "https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-4-aef7d819a8ed"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Paypal's Venmo Crosses the $1 Billion Mark in January",
+    "comment": "",
+    "urls": [
+      "http://www.bidnessetc.com/63585-paypal-holdings-venmo-crosses-the-1-billion-mark-in-january/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Creating a Twitter bot with Node.JS",
+    "comment": "Also check out: http://xkcd.com/1646/",
+    "urls": [
+      "https://medium.com/@DebashisBarman/creating-a-twitter-bot-with-node-js-bea760b80bd5#.3sar8338l"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "Celebrate International Women’s Day@VMware! ",
+    "comment": "Movie:CODE| Debugging the Gender Gap - March 8th - 6:00 PM",
+    "urls": [
+      "http://www.meetup.com/Women-Who-Code-Silicon-Valley/events/228897361/"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Stripe Atlas",
+    "comment": "Stripe will bootstrap your new business",
+    "urls": [
+      "https://stripe.com/atlas/faq"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "esNext Benchmarks",
+    "comment": " Benchmarks comparing ESNext features to their ES5 and various pre-processor equivalents ",
+    "urls": [
+      "https://github.com/bevry/esnext-benchmarks"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "A Review of JavaScript Error Monitoring Services",
+    "comment": "",
+    "urls": [
+      "http://developer.telerik.com/featured/review-javascript-error-monitoring-services/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "A faster, smarter Quick Switcher",
+    "comment": "How Slack re-engineered their Quick Switcher",
+    "urls": [
+      "https://slack.engineering/a-faster-smarter-quick-switcher-77cbc193cb60#.73pqs7xjn"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The cost of transpiling es2015 in 2016",
+    "comment": "Thorough comparison on transpiling tools",
+    "urls": [
+      "https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The Ultimate NodeJS Development Setup with Docker",
+    "comment": "",
+    "urls": [
+      "http://www.ameanmagazine.com/2016/02/the-ultimate-nodejs-development-setup.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The Absolutely True Story of a Real Programmer Who Never Learned C",
+    "comment": "",
+    "urls": [
+      "https://medium.com/@wilshipley/the-absolutely-true-story-of-a-real-programmer-who-never-learned-c-210e43a1498b#.98jwd3dwn"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Why is Node Running?",
+    "comment": " Node is running but you don't know why? why-is-node-running is here to help you. ",
+    "urls": [
+      "https://github.com/mafintosh/why-is-node-running"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Codeology",
+    "comment": "Open SOurce repo visualization project, by Braintree",
+    "urls": [
+      "http://codeology.braintreepayments.com/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "KeyFrame Effects on Firefox",
+    "comment": "Docs, and Example",
+    "urls": [
+      "https://developer.mozilla.org/en-US/docs/Web/API/KeyframeEffect/KeyframeEffect",
+      "http://codepen.io/rachelnabors/pen/eJyWzm/?editors=0010"
+    ]
+  }
+]
