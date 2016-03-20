@@ -1,0 +1,163 @@
+[
+  {
+    "category": "Featured",
+    "headline": "Making A Service Worker: A Case Study",
+    "comment": "A complete tutorial",
+    "urls": [
+      "https://www.smashingmagazine.com/2016/02/making-a-service-worker/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Balloon.css",
+    "comment": "Pure CSS Tooltips",
+    "urls": [
+      "http://kazzkiq.github.io/balloon.css/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Performance & Usage at Instagram",
+    "comment": "How Instagram tunes their app.",
+    "urls": [
+      "https://engineering.instagram.com/posts/193415561023919/performance-usage-at-instagram/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Is Silicon Valley bad for your health?",
+    "comment": "",
+    "urls": [
+      "http://fortune.com/2015/10/23/is-silicon-valley-bad-for-your-health/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Nothing Like This Has Ever Happened Before",
+    "comment": "(Two-part article) Past, Present and Future of tech workers in the Bay area",
+    "urls": [
+      "http://techcrunch.com/2016/01/27/a-long-game/",
+      "http://techcrunch.com/2016/01/29/nothing-like-this-has-ever-happened-before/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "PayPal makes money every time you use Uber, Airbnb",
+    "comment": "Why, yes. Yes we do.",
+    "urls": [
+      "http://techcrunch.com/2016/03/04/paypal-makes-money-every-time-you-use-uber-airbnb/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "10 things you need to know about CSS",
+    "comment": "",
+    "urls": [
+      "http://dsheiko.com/weblog/10-things-to-need-to-know-about-css?utm_source=html5weekly&utm_medium=email"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "How to build your own recommendation engine using machine learning on Google Compute Engine",
+    "comment": "",
+    "urls": [
+      "https://cloud.google.com/solutions/recommendations-using-machine-learning-on-compute-engine"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "EnterpriseJS (SFBAY)",
+    "comment": "03-29 / Earnest 1455 Market Street | 18th Floor San Francisco CA",
+    "urls": [
+      "https://enterprisejssfbay2.splashthat.com/"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Amazon Alexa can now pay your Capital One bill",
+    "comment": "Voice + Payments integration",
+    "urls": [
+      "http://techcrunch.com/2016/03/11/amazon-alexa-can-now-pay-your-capital-one-bill/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "History of massive-scale sorting experiments at Google",
+    "comment": "50PB Sort? Easy...",
+    "urls": [
+      "https://cloud.google.com/blog/big-data/2016/02/history-of-massive-scale-sorting-experiments-at-google"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Writing interactive command line apps in JavaScript with Node.js",
+    "comment": "Tutorial / Intro to 'nicl' module",
+    "urls": [
+      "http://jonbho.net/2016/03/11/writing-interactive-command-line-apps-in-javascript-with-node-js-or-how-to-write-the-most-classic-type-of-software-on-the-most-modern-framework-without-frying-your-brain-in-the-process/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "npm semver calculator",
+    "comment": "Visualize Semver for a specific package.",
+    "urls": [
+      "http://semver.npmjs.com/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "NodeBB.",
+    "comment": "A NodeJS based community platform",
+    "urls": [
+      "https://blog.nodebb.org/nodebb-v1-0-0/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Enzyme",
+    "comment": "JavaScript Testing utilities for React (by AirBnB)",
+    "urls": [
+      "https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.tqdztlmgm"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The Sadness and Beauty of Watching Google’s AI Play Go",
+    "comment": "I, for one, welcome or new AI overlords.",
+    "urls": [
+      "http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "JavaScript in 2016: Beyond Harmony",
+    "comment": "Brendan Eich on the Web's journey to rival native.",
+    "urls": [
+      "https://www.oreilly.com/ideas/brendan-eich-javascript-fluent-2016"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Giving Up on TDD?",
+    "comment": "Not so fast!",
+    "urls": [
+      "http://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Babylon",
+    "comment": "Babylon is the JavaScript parser used in Babel. Open Sourced last week",
+    "urls": [
+      "https://github.com/babel/babylon"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "nplaym",
+    "comment": "A wrapper for npm so you can play a Space-Invaders-a-like game while installing.",
+    "urls": [
+      "https://www.npmjs.com/package/nplaym"
+    ]
+  }
+]
