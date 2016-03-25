@@ -1,0 +1,172 @@
+[
+  {
+    "category": "Featured",
+    "headline": "How npm broke the internet this week",
+    "comment": "A collection of links showing the different sides of the story. (Read top to bottom)",
+    "urls": [
+      "https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d#.843l7304f",
+      "https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.fktnfcl2n",
+      "http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "The Path to JavaScript Next",
+    "comment": "How eBay adopted ES6",
+    "urls": [
+      "www.ebaytechblog.com/2016/03/15/the-path-to-javascript-next/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "The Magic of Automated Accessibility Testing",
+    "comment": "",
+    "urls": [
+      "http://marcysutton.com/talk/the-magic-of-automated-accessibility-testing-jsconf-2015/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "A discussion on developer mental health (Podcast)",
+    "comment": "A serious topic that few people talk about",
+    "urls": [
+      "http://nodeup.com/eighty"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Extracting image metadata at scale",
+    "comment": "From the Netflix Tech Blog",
+    "urls": [
+      "http://techblog.netflix.com/2016/03/extracting-image-metadata-at-scale.html"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Apple Pay’s Mobile Web Move",
+    "comment": "",
+    "urls": [
+      "http://www.pymnts.com/news/mobile-payments/2016/apple-pays-mobile-web-move/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "The Uber Model, It Turns Out, Doesn’t Translate",
+    "comment": "",
+    "urls": [
+      "http://www.nytimes.com/2016/03/24/technology/the-uber-model-it-turns-out-doesnt-translate.html?_r=0"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "How to Run Hello World with Node.js on Google App Engine",
+    "comment": "",
+    "urls": [
+      "https://cloud.google.com/nodejs/getting-started/hello-world"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "The Design Challenge Behind Square's New Reader",
+    "comment": "",
+    "urls": [
+      "http://www.fastcompany.com/3057852/startup-report/the-design-challenge-behind-squares-new-reader"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "trymodule: A simple cli tool for trying out different nodejs modules.",
+    "comment": "",
+    "urls": [
+      "https://github.com/VictorBjelkholm/trymodule"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Node.js on Google App Engine goes beta",
+    "comment": "Look for the Hello-World app in the tutorials section",
+    "urls": [
+      "https://cloudplatform.googleblog.com/2016/03/Node.js-on-Google-App-Engine-goes-beta.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "NPM & left-pad: Have We Forgotten How To Program?",
+    "comment": "More controversy :) ",
+    "urls": [
+      "http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The copy & paste guide to your first Service Worker",
+    "comment": "",
+    "urls": [
+      "https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "ES6 const is not about immutability",
+    "comment": "",
+    "urls": [
+      "https://mathiasbynens.be/notes/es6-const"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "jsweet A transpiler from Java to TypeScript/JavaScript",
+    "comment": "",
+    "urls": [
+      "http://www.jsweet.org/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "New York senator proposes tax credit for open-source developers",
+    "comment": "",
+    "urls": [
+      "http://www.theregister.co.uk/2016/03/18/tax_credit_for_open_source_developers/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "The AVA testign framework explained",
+    "comment": "Featuring our own Kent Dodds",
+    "urls": [
+      "https://www.youtube.com/watch?v=YRvrPkXBwdo"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "How to switch from Mocha to AVA",
+    "comment": "",
+    "urls": [
+      "https://github.com/sindresorhus/pageres/commit/663be15acb3dd2eb0f71b1956ef28c2cd3fdeed0"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Microsoft Holographic Academy",
+    "comment": "Learning+Tutorial center for VR / AR programming",
+    "urls": [
+      "https://dev.windows.com/en-us/holographic/academy"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Mongo DB Is Web Scale ",
+    "comment": "Warning: PG-13 Language (But absolutely hilarious)",
+    "urls": [
+      "https://youtu.be/b2F-DItXtZs"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Hey Look, It's Every Bootstrap Website Ever",
+    "comment": "Warning: PG-13 Language",
+    "urls": [
+      "http://adventurega.me/bootstrap/"
+    ]
+  }
+]
