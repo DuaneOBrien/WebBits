@@ -1,0 +1,154 @@
+[
+  {
+    "category": "Featured",
+    "headline": "Functional Programming for JavaScript People",
+    "comment": "",
+    "urls": [
+      "https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.8d17sutno"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Changes to npm’s unpublish policy",
+    "comment": "",
+    "urls": [
+      "http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "A Complete Guide to CSS Grid",
+    "comment": "",
+    "urls": [
+      "https://css-tricks.com/snippets/css/complete-guide-grid/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Product Design & The Asshole Contingency",
+    "comment": "Why not all users are your friend and you need to deal with it.",
+    "urls": [
+      "https://medium.com/apegroup-texts/product-design-the-asshole-contingency-296ed8a50e21#.vf0pjuywv"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "2016 UK eCommerce Fraud Report",
+    "comment": "Lots of facts and stats.",
+    "urls": [
+      "http://www.cybersource.com/content/dam/cybersource/en-EMEA/documents/2016_UK_eCommerce_Fraud_Report.pdf"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Writing Testable Code in JavaScript: A Brief Overview",
+    "comment": "",
+    "urls": [
+      "https://www.toptal.com/javascript/writing-testable-code-in-javascript"
+    ]
+  },
+  {
+    "category": "Events",
+    "headline": "Facebook Ads Team Tech Talk ",
+    "comment": "April 25th @ 6 PM - Menlo Park, CA",
+    "urls": [
+      "https://fbadsteamtechtalk.splashthat.com/"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Stripe will help Cubans do business in US",
+    "comment": "",
+    "urls": [
+      "http://www.cnbc.com/2016/04/06/how-stripe-atlas-will-help-cubans-do-business-with-us.html"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Alipay expands into Europe",
+    "comment": "",
+    "urls": [
+      "https://www.finextra.com/newsarticle/28710/alipay-expands-into-europe"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Knuth Vs Email",
+    "comment": "What happens when you've been using email since 1975",
+    "urls": [
+      "http://cs.stanford.edu/~uno/email.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Domino's: Pizza and Payments",
+    "comment": "",
+    "urls": [
+      "http://www.ifc0nfig.com/dominos-pizza-and-payments/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Techies",
+    "comment": "A portrait project focused on sharing stories of minority tech employees in Silicon Valley.",
+    "urls": [
+      "http://www.techiesproject.com/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Here are the Top Tech Companies’ Secrets to Hiring the Best People",
+    "comment": "Let's raise the bar at PayPal!",
+    "urls": [
+      "https://medium.com/conquering-corporate-america/here-are-the-top-tech-companies-secrets-to-hiring-the-best-people-33f432c39db2#.l6o8c9li9"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Easy profiling for Node.js Applications",
+    "comment": "Learn how to use the Node.js built in profiler",
+    "urls": [
+      "https://nodejs.org/en/docs/guides/simple-profiling/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Docco: Quick JavaScript Documentation",
+    "comment": "",
+    "urls": [
+      "https://davidwalsh.name/javascript-documentation"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "async/await: It’s Good and Bad",
+    "comment": "",
+    "urls": [
+      "https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40#.27nvaio3h"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Implement Access Control in Node.js",
+    "comment": "",
+    "urls": [
+      "https://blog.nodeswat.com/implement-access-control-in-node-js-8567e7b484d1#.pa2opfcg5"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Focusing On What Our Users Shouldn’t Focus On",
+    "comment": "",
+    "urls": [
+      "https://medium.com/ux-immersion-interactions/focusing-on-what-our-users-shouldn-t-focus-on-9999dbec7ca1#.virk40i54"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Xoom's John Kunze: 'We, Not Me'",
+    "comment": "",
+    "urls": [
+      "http://www.coachacm.com/blog/2015/11/11/success-in-we-not-i"
+    ]
+  }
+]
