@@ -1,0 +1,170 @@
+[
+  {
+    "category": "Featured",
+    "headline": "CSS vs. SVG: Shapes and Arbitrarily-Shaped UI Components",
+    "comment": "",
+    "urls": [
+      "http://blogs.adobe.com/dreamweaver/2015/09/css-vs-svg-shapes-and-arbitrarily-shaped-ui-components.html"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Webpack — The Confusing Parts",
+    "comment": "",
+    "urls": [
+      "https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.wyoss374o"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Elevator Saga",
+    "comment": "Try your hand at this challenging programming puzzle",
+    "urls": [
+      "play.elevatorsaga.com/"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "Why most A/B tests give you bullshit results",
+    "comment": "",
+    "urls": [
+      "https://mixpanel.com/blog/2016/02/04/why-most-a-b-tests-give-you-bullshit-results"
+    ]
+  },
+  {
+    "category": "Featured",
+    "headline": "How Enterprises Benefit from Node.js",
+    "comment": "",
+    "urls": [
+      "https://blog.risingstack.com/how-enterprises-benefit-from-nodejs/"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "Bot apps, the invisible interface, and a $100 billion dollar market",
+    "comment": "",
+    "urls": [
+      "https://medium.com/bot-apps/bot-apps-the-invisible-interface-and-a-100-billion-dollar-market-a0b6159efc5e#.tpce2e1jn"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "How Conversational Commerce Is Forever Changing the Way We Shop",
+    "comment": "",
+    "urls": [
+      "https://www.shopify.com/blog/113660229-how-conversational-commerce-is-forever-changing-the-way-we-shop"
+    ]
+  },
+  {
+    "category": "Commerce",
+    "headline": "The fall… and rise and rise and rise of chat networks",
+    "comment": "From CompuServe to Telegram, chat has come a long way—and it's just getting started.",
+    "urls": [
+      "http://arstechnica.com/business/2016/02/the-fall-and-rise-and-rise-and-rise-of-chat-networks/"
+    ]
+  },
+  {
+    "category": "Tutorials",
+    "headline": "Deploying Resilient Node.js Apps to Ubuntu with Forever and Nginx",
+    "comment": "Great for C3 deployments",
+    "urls": [
+      "https://eladnava.com/deploying-resilient-node-js-apps-with-forever-and-nginx/"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "Facebook Messenger + Airlines",
+    "comment": "",
+    "urls": [
+      "https://www.facebook.com/davidm/posts/10156841782530195"
+    ]
+  },
+  {
+    "category": "What the competition is up to...",
+    "headline": "US Banks ready to offer same-day ACH payments by Sept 2016",
+    "comment": "",
+    "urls": [
+      "https://ibsintelligence.com/ibs-journal/ibs-news/us-banks-ready-to-offer-same-day-ach-payments-by-sept-2016/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Why Scrum Should Basically Just Die In A Fire",
+    "comment": "",
+    "urls": [
+      "http://gilesbowkett.blogspot.ca/2014/09/why-scrum-should-basically-just-die-in.html"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Argus Eyes: A CLI Tool for Visual Regression Testing",
+    "comment": "",
+    "urls": [
+      "http://arguseyes.io/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Writing good code: how to reduce the cognitive load of your code",
+    "comment": "",
+    "urls": [
+      "http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "nplaym",
+    "comment": "A wrapper for npm so you can play a Space-Invaders-a-like game while installing.",
+    "urls": [
+      "https://www.npmjs.com/package/nplaym"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "How npm split a monolith and lived to tell the tale",
+    "comment": "",
+    "urls": [
+      "https://www.oreilly.com/ideas/how-npm-split-a-monolith-and-lived-to-tell-the-tale"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "500 rare Apple II programs and games are now preserved online at the Internet Archive",
+    "comment": "",
+    "urls": [
+      "http://venturebeat.com/2016/03/05/500-rare-apple-ii-programs-and-games-are-now-preserved-online-at-the-internet-archive/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Talking with Black Women Engineers about Diversity in Silicon Valley",
+    "comment": "",
+    "urls": [
+      "http://www.lennyletter.com/work/a283/talking-with-black-women-engineers-about-diversity-in-silicon-valley/"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "I’m a boring programmer (and proud of it)",
+    "comment": "",
+    "urls": [
+      "https://m.signalvnoise.com/i-m-a-boring-programmer-and-proud-of-it-d4ac3dd2defe#.rr6umqblw"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "Delivering Octicons with SVG",
+    "comment": "",
+    "urls": [
+      "https://github.com/blog/2112-delivering-octicons-with-svg"
+    ]
+  },
+  {
+    "category": "The rest of the crop",
+    "headline": "10 ways to have a better conversation",
+    "comment": "",
+    "urls": [
+      "https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation"
+    ]
+  }
+]
