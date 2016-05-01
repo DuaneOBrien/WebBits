@@ -1,4 +1,4 @@
-# WebBits
+# WebBits!
 Web / Tech /eCommerce news repository.
 
 ![Travis-CI](https://travis-ci.org/lmarkus/WebBits.svg)
